@@ -1,7 +1,8 @@
+Hello everyone, this is Sachin Devdhar. I graduated from Humber College in August, 2022 and will soon be starting my first job in the Canadian Tech market with Bank Of Montreal (BMO) as a Fullstack Software Developer. 
 
 A small disclaimer before we jump right into it: This is my personal experience with job hunting as a 'new grad' or 'entry level' software developer, but most of these steps might be applicable to all levels of experience. It's going to be a long read so please bear with me.
 
-A job hunt is obviously a tedious and extensive process but I like to divide it into 4 major steps:
+Job hunt is obviously a tedious and extensive process but I like to divide it into 4 major steps:
 1. Networking phase:
 ·        Networking is one of the strongest tools in your bag. I started networking with industry professionals, recruiters, and senior developers from the company  that I desired to work with.
 ·        Join as many groups and threads on LinkedIn and surround yourself with people having similar experiences and mindsets.
